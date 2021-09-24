@@ -1,0 +1,176 @@
+{
+    "descricaoHexagono": {
+        "titulo": "DESCRIÇÃO DE HEXAGONO",
+        "subtitulo": "A primeira vez que o grupo entrar em um novo hexagono role uma descrição aleatoria",
+        "paisagem1d6": {
+            "titulo": "Paisagem",
+            "rangeDado": [
+                1,
+                6
+            ],
+            "eventos": [
+                {
+                    "conteudo": "A vegetação encontra seu fim em um precipicio, com cerca de 9m, que contorna toda a costa. Ao longo de todo trajeto algumas pequenas arvores dão um toque verde ao horizonte constratando com as rochas acinzentadas e o solo de terra marrom. La em baixo a areia fofa forma uma praia estreita.",
+                    "rangeDado": [
+                        1,
+                        2
+                    ]
+                },
+                {
+                    "conteudo": "A colina rochosa irregular, com arvores espaçadas e vegetação rasteira seca, avança timidamente até uma imensa falésia. 15m abaixo o mar se choca com grandes montes de pedra que parecem fazer uma barricada.",
+                    "rangeDado": [
+                        3,
+                        4
+                    ]
+                },
+                {
+                    "conteudo": "Aos poucos a escarpa rochosa, com pouca restinga, e o terreno ingrime se divide em dois, um veio marítimo preenche as regiões baixas formando um grande fiorde",
+                    "rangeDado": [
+                        5
+                    ]
+                },
+                {
+                    "conteudo": "O terreno rochoso rapidamente da lugar a uma areia estranha encharcada com a agua do mar. Raizes exageradamente em abundancia dificultam a passagem, junto a tocas de pequenos crustaceos na areia úmida. Mata a dentro a agua parece ficar mais escassa e o solo mais seco.",
+                    "rangeDado": [
+                        6
+                    ]
+                }
+            ]
+        },
+        "sonsd6": {
+            "titulo": "Sons da costa da travessia",
+            "rangeDado": [
+                1,
+                6
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Um tumulto de grunhidos de passaros incomoda os ouvidos",
+                    "rangeDado": [
+                        1
+                    ]
+                },
+                {
+                    "conteudo": "O som das ondas se chocando violentamente",
+                    "rangeDado": [
+                        2
+                    ]
+                },
+                {
+                    "conteudo": "Algum barulho estranho é constante na vegetação, como se algo estivesse se aproximando",
+                    "rangeDado": [
+                        3
+                    ]
+                },
+                {
+                    "conteudo": "Algum barulho estranho é constante na vegetação, como se algo estivesse se aproximando",
+                    "rangeDado": [
+                        4
+                    ]
+                },
+                {
+                    "conteudo": "O silencio domina todo o percurso, sendo quebrado apenas pelo som dos ventos fortes",
+                    "rangeDado": [
+                        5
+                    ]
+                },
+                {
+                    "conteudo": "O vento uiva por entre as falecias e pedras",
+                    "rangeDado": [
+                        6
+                    ]
+                }
+            ]
+        },
+        "odoresd6": {
+            "titulo": "Odoroes da costa da travessia",
+            "rangeDado": [
+                1,
+                6
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Cheiro de maresia",
+                    "rangeDado": [
+                        1
+                    ]
+                },
+                {
+                    "conteudo": "Cheiro de sangue e agua salgada",
+                    "rangeDado": [
+                        2
+                    ]
+                },
+                {
+                    "conteudo": "Forte odor de madeira molhada apodrecendo",
+                    "rangeDado": [
+                        3
+                    ]
+                },
+                {
+                    "conteudo": "Cheiro de carniça",
+                    "rangeDado": [
+                        4
+                    ]
+                },
+                {
+                    "conteudo": "Brisa salgada suave e reconfortante",
+                    "rangeDado": [
+                        5
+                    ]
+                },
+                {
+                    "conteudo": "Cheiro forte da vegetação local",
+                    "rangeDado": [
+                        6
+                    ]
+                }
+            ]
+        },
+        "condicaod6": {
+            "titulo": "Condição",
+            "rangeDado": [
+                1,
+                6
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Ventos fortes balançam a vegetação costeira, formando a clássica brisa litoranea de um fim de tarde",
+                    "rangeDado": [
+                        1
+                    ]
+                },
+                {
+                    "conteudo": "Descida quase imperceptivel preenchida pela restinga e vegetação rasteira",
+                    "rangeDado": [
+                        2
+                    ]
+                },
+                {
+                    "conteudo": "Arbustos e vegetação rasteira, secos pelo forte sol, se movem rapidamente diante da brisa marinha",
+                    "rangeDado": [
+                        3
+                    ]
+                },
+                {
+                    "conteudo": "A maresia refresca seu rosto, como se mergulhase no mar gelado",
+                    "rangeDado": [
+                        4
+                    ]
+                },
+                {
+                    "conteudo": "A vegetação rasteira parece segurar e grudar nos pés dos viajantes",
+                    "rangeDado": [
+                        5
+                    ]
+                },
+                {
+                    "conteudo": "Pequenos montes de conchas e cascas de moluscos",
+                    "rangeDado": [
+                        6
+                    ]
+                }
+            ]
+        }
+    }
+}
