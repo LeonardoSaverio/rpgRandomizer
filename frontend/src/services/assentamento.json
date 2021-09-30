@@ -38,12 +38,12 @@
             ],
             "eventos": [
                 {
-                    "conteudo": "Humano (Os combatentes SEMPRE serão guerreiros tribais)",
+                    "conteudo": "Humddano (Os combatentes SEMPRE serão guerreiros tribais)",
                     "rangeDado": [
                         1,
                         10
                     ],
-                    "conteudo": "Humano (Os combatentes SEMPRE serão guerreiros tribais)",
+                    "conteudo": "Humassno (Os combatentes SEdMPRE serão guerreiros tribais)",
                     "rangeDado": [
                         11,
                         14
@@ -52,21 +52,20 @@
                         "titulo": "especificacoes",
                         "humano": {
                             "titulo:": "humano",
-                            "rangeDado":[
+                            "rangeDado": [
                                 1,
                                 6
                             ],
-                            "evento":[
+                            "evento": [
                                 {
-                                    "conteudo":"Grande maioria é composta por guerreiros tribais",
-                                    "rangeDado":[]
+                                    "conteudo": "Grande maioria é composta por guerreiros tribais",
+                                    "rangeDado": [1,2]
                                 }
                             ]
                         }
                     }
                 }
-            }
-        ]
+            ]
+        }
     }
-}
 }
