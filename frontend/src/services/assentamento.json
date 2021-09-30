@@ -1,0 +1,72 @@
+{
+    "assentamento": {
+        "titulo": "ASSENTAMENTO",
+        "tipoDeAssentamento1d20": {
+            "titulo": "Tipo de Assentamento",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Lugarejo",
+                    "rangeDado": [
+                        1,
+                        8
+                    ]
+                },
+                {
+                    "conteudo": "Fortificação (Pelo menos metade dos habitantes são combatentes)",
+                    "rangeDado": [
+                        9
+                    ]
+                },
+                {
+                    "conteudo": "Acampamento com assentamento improvisado ",
+                    "rangeDado": [
+                        10,
+                        20
+                    ]
+                }
+            ]
+        },
+        "ocupantePredominante": {
+            "titulo": "Tipo de Assentamento",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Humano (Os combatentes SEMPRE serão guerreiros tribais)",
+                    "rangeDado": [
+                        1,
+                        10
+                    ],
+                    "conteudo": "Humano (Os combatentes SEMPRE serão guerreiros tribais)",
+                    "rangeDado": [
+                        11,
+                        14
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "humano": {
+                            "titulo:": "humano",
+                            "rangeDado":[
+                                1,
+                                6
+                            ],
+                            "evento":[
+                                {
+                                    "conteudo":"Grande maioria é composta por guerreiros tribais",
+                                    "rangeDado":[]
+                                }
+                            ]
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
+}
