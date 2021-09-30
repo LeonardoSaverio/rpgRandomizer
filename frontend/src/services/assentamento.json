@@ -31,22 +31,17 @@
             ]
         },
         "ocupantePredominante": {
-            "titulo": "Tipo de Assentamento",
+            "titulo": "Ocupante Predominante",
             "rangeDado": [
                 1,
                 20
             ],
             "eventos": [
                 {
-                    "conteudo": "Humddano (Os combatentes SEMPRE serão guerreiros tribais)",
+                    "conteudo": "Humano (Os combatentes SEMPRE serão guerreiros tribais)",
                     "rangeDado": [
                         1,
                         10
-                    ],
-                    "conteudo": "Humassno (Os combatentes SEdMPRE serão guerreiros tribais)",
-                    "rangeDado": [
-                        11,
-                        14
                     ],
                     "especificacoes": {
                         "titulo": "especificacoes",
@@ -56,15 +51,165 @@
                                 1,
                                 6
                             ],
-                            "evento": [
+                            "humanod6": [
                                 {
                                     "conteudo": "Grande maioria é composta por guerreiros tribais",
-                                    "rangeDado": [1,2]
+                                    "rangeDado": [1]
+                                },
+                                {
+                                    "conteudo": "Liderados por uma Naga Guardiã",
+                                    "rangeDado": [2]
+                                },
+                                {
+                                    "conteudo": "Caçadores de criaturas marinhas",
+                                    "rangeDado": [3]
+                                },
+                                {
+                                    "conteudo": "Escravizados por cultistas",
+                                    "rangeDado": [4]
+                                },
+                                {
+                                    "conteudo": "Adoradores de algum deus ou criatura marinha",
+                                    "rangeDado": [5]
+                                },
+                                {
+                                    "conteudo": "Coletores de especiarias raras",
+                                    "rangeDado": [6]
                                 }
                             ]
                         }
                     }
-                }
+                },
+                {
+                    "conteudo": "Goblin (10% Açoitadores; 20% Caçadores; 40% Coletores e 30% Párias) Volos pag. 51",
+                    "rangeDado": [
+                        11,
+                        14
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "goblin": {
+                            "titulo:": "Goblin",
+                            "rangeDado": [
+                                1,
+                                6
+                            ],
+                            "goblind6": [
+                                {
+                                    "conteudo": "Liderados por um gigante burro",
+                                    "rangeDado": [1]
+                                },
+                                {
+                                    "conteudo": "Escravos de um corruptor",
+                                    "rangeDado": [2]
+                                },
+                                {
+                                    "conteudo": "Capachos de uma legião de hobgoblins das proximidades",
+                                    "rangeDado": [3]
+                                },
+                                {
+                                    "conteudo": "Saqueadores desordenados e comerciantes trapaceiros",
+                                    "rangeDado": [4]
+                                },
+                                {
+                                    "conteudo": "Espalhados em pequenos grupos por todo o território",
+                                    "rangeDado": [5]
+                                },
+                                {
+                                    "conteudo": "Caçadores de especiarias raras",
+                                    "rangeDado": [6]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "conteudo": "Povo lagarto",
+                    "rangeDado": [
+                        11,
+                        14
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "goblin": {
+                            "titulo:": "Goblin",
+                            "rangeDado": [
+                                1,
+                                6
+                            ],
+                            "goblind6": [
+                                {
+                                    "conteudo": "Liderados por um gigante burro",
+                                    "rangeDado": [1]
+                                },
+                                {
+                                    "conteudo": "Escravos de um corruptor",
+                                    "rangeDado": [2]
+                                },
+                                {
+                                    "conteudo": "Capachos de uma legião de hobgoblins das proximidades",
+                                    "rangeDado": [3]
+                                },
+                                {
+                                    "conteudo": "Saqueadores desordenados e comerciantes trapaceiros",
+                                    "rangeDado": [4]
+                                },
+                                {
+                                    "conteudo": "Espalhados em pequenos grupos por todo o território",
+                                    "rangeDado": [5]
+                                },
+                                {
+                                    "conteudo": "Caçadores de especiarias raras",
+                                    "rangeDado": [6]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "conteudo": "Goblin (10% Açoitadores; 20% Caçadores; 40% Coletores e 30% Párias) Volos pag. 51",
+                    "rangeDado": [
+                        11,
+                        14
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "goblin": {
+                            "titulo:": "Goblin",
+                            "rangeDado": [
+                                1,
+                                6
+                            ],
+                            "goblind6": [
+                                {
+                                    "conteudo": "Liderados por um gigante burro",
+                                    "rangeDado": [1]
+                                },
+                                {
+                                    "conteudo": "Escravos de um corruptor",
+                                    "rangeDado": [2]
+                                },
+                                {
+                                    "conteudo": "Capachos de uma legião de hobgoblins das proximidades",
+                                    "rangeDado": [3]
+                                },
+                                {
+                                    "conteudo": "Saqueadores desordenados e comerciantes trapaceiros",
+                                    "rangeDado": [4]
+                                },
+                                {
+                                    "conteudo": "Espalhados em pequenos grupos por todo o território",
+                                    "rangeDado": [5]
+                                },
+                                {
+                                    "conteudo": "Caçadores de especiarias raras",
+                                    "rangeDado": [6]
+                                }
+                            ]
+                        }
+                    }
+                },
+
             ]
         }
     }
