@@ -1,0 +1,41 @@
+{
+    "ruinas": {
+        "titulo": "RUÍNAS",
+        "tipoDeRuina1d20": {
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Pequena construção em destroços.",
+                    "rangeDado": [
+                        1
+                    ]
+                },
+                {
+                    "conteudo": "Grande construção em destroços.",
+                    "rangeDado": [
+                        2,
+                        3
+                    ]
+                },
+                {
+                    "conteudo": "Construção abandonada.",
+                    "rangeDado": [
+                        4
+                    ]
+                },
+                {
+                    "conteudo": "Antigo lugarejo destruido.",
+                    "rangeDado": [
+                        5,8
+                    ]
+                }
+            ]
+        },
+        "especificandoConstrucoes1d20": "",
+        "localizacao1d20": "",
+        "construidaParaQualProposito1d20": ""
+    }
+}
