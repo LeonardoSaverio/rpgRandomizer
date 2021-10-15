@@ -1,0 +1,305 @@
+{
+    "assentamento": {
+        "titulo": "ASSENTAMENTO",
+        "tipoDeAssentamento1d20": {
+            "titulo": "Tipo de Assentamento",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Lugarejo",
+                    "rangeDado": [
+                        1,
+                        8
+                    ]
+                },
+                {
+                    "conteudo": "Fortificação (Pelo menos metade dos habitantes são combatentes)",
+                    "rangeDado": [
+                        9
+                    ]
+                },
+                {
+                    "conteudo": "Acampamento com assentamento improvisado ",
+                    "rangeDado": [
+                        10,
+                        20
+                    ]
+                }
+            ]
+        },
+        "ocupantePredominante": {
+            "titulo": "Ocupante Predominante",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Humano (Os combatentes SEMPRE serão guerreiros tribais)",
+                    "rangeDado": [
+                        1,
+                        10
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "humano": {
+                            "titulo:": "humano",
+                            "rangeDado": [
+                                1,
+                                6
+                            ],
+                            "humanod6": [
+                                {
+                                    "conteudo": "Grande maioria é composta por guerreiros tribais",
+                                    "rangeDado": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Liderados por uma Naga Guardiã",
+                                    "rangeDado": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Caçadores de criaturas marinhas",
+                                    "rangeDado": [
+                                        3
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Escravizados por cultistas",
+                                    "rangeDado": [
+                                        4
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Adoradores de algum deus ou criatura marinha",
+                                    "rangeDado": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Coletores de especiarias raras",
+                                    "rangeDado": [
+                                        6
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "conteudo": "Goblin (10% Açoitadores; 20% Caçadores; 40% Coletores e 30% Párias) Volos pag. 51",
+                    "rangeDado": [
+                        11,
+                        14
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "goblin": {
+                            "titulo:": "Goblin",
+                            "rangeDado": [
+                                1,
+                                6
+                            ],
+                            "goblind6": [
+                                {
+                                    "conteudo": "Liderados por um gigante burro",
+                                    "rangeDado": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Escravos de um corruptor",
+                                    "rangeDado": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Capachos de uma legião de hobgoblins das proximidades",
+                                    "rangeDado": [
+                                        3
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Saqueadores desordenados e comerciantes trapaceiros",
+                                    "rangeDado": [
+                                        4
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Espalhados em pequenos grupos por todo o território",
+                                    "rangeDado": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Caçadores de especiarias raras",
+                                    "rangeDado": [
+                                        6
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "conteudo": "Povo lagarto",
+                    "rangeDado": [
+                        15,
+                        18
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "povoLagarto": {
+                            "titulo:": "Povo lagarto",
+                            "rangeDado": [
+                                1,
+                                6
+                            ],
+                            "Povolagarto1d6": [
+                                {
+                                    "conteudo": "Lider xamã que prioriza a harmonia com a natureza",
+                                    "rangeDado": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Liderados por um rei/rainha (Maligno) tocado por Sess'inek",
+                                    "rangeDado": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Veem forasteiros apenas como caça",
+                                    "rangeDado": [
+                                        3
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Conhecidos por negociarem com forasteiros que parecem confiaveis",
+                                    "rangeDado": [
+                                        4
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Tem quase os mesmos costumes da raça humanoide mais proxima",
+                                    "rangeDado": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Quase nenhum contato com o mundo externo",
+                                    "rangeDado": [
+                                        6
+                                    ]
+                                }
+                            ]
+                        }
+                    }
+                },
+                {
+                    "conteudo": "Hobgoblin (Diminua a população pela metade, porem, TODOS são combatentes)",
+                    "rangeDado": [
+                        19,
+                        20
+                    ],
+                    "especificacoes": {
+                        "titulo": "especificacoes",
+                        "Hobgoblin": {
+                            "titulo:": "Hobgoblin",
+                            "rangeDado": [
+                                1,
+                                6
+                            ],
+                            "Hobgoblin1d6": [
+                                {
+                                    "conteudo": "Há anos alimentam um conflito com outra legião",
+                                    "rangeDado": [
+                                        1
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Um conflito de liderança os destroi de dentro pra fora",
+                                    "rangeDado": [
+                                        2
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Guerreiros implacaveis em busca de poder e territorio",
+                                    "rangeDado": [
+                                        3
+                                    ]
+                                },
+                                {
+                                    "conteudo": "A legião é influenciada por um ser poderoso desconhecido",
+                                    "rangeDado": [
+                                        4
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Mantem uma relação amistosa, mas com segundas intenções",
+                                    "rangeDado": [
+                                        5
+                                    ]
+                                },
+                                {
+                                    "conteudo": "Contrabandistas e conquistadores",
+                                    "rangeDado": [
+                                        6
+                                    ]
+                                }
+                            ],
+                            "habitacao":{
+                                "titulo": "Habitação",
+                                "HobgoblinHabitacao": [
+                                    {
+                                        "conteudo": "A legião controla uma pequena frota de navios mercantes",
+                                        "rangeDado": [
+                                            1
+                                        ]
+                                    },
+                                    {
+                                        "conteudo": "Local construido com proposito de guardar/proteger algo",
+                                        "rangeDado": [
+                                            2
+                                        ]
+                                    },
+                                    {
+                                        "conteudo": "Torre conquistada",
+                                        "rangeDado": [
+                                            3
+                                        ]
+                                    },
+                                    {
+                                        "conteudo": "Vila dominada de outros humanoides",
+                                        "rangeDado": [
+                                            4
+                                        ]
+                                    },
+                                    {
+                                        "conteudo": "Zigurate abandonado",
+                                        "rangeDado": [
+                                            5
+                                        ]
+                                    },
+                                    {
+                                        "conteudo": "Posto avançado da legião",
+                                        "rangeDado": [
+                                            6
+                                        ]
+                                    }
+                                ]
+                                
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
