@@ -39,6 +39,7 @@ function Home() {
                         <option value="DESCRIÇÃO DE HEXAGONO">DESCRIÇÃO DE HEXAGONO</option>
                         <option value="ROLAGEM DE CENARIO">ROLAGEM DE CENARIO</option>
                         <option value="ASSENTAMENTO">ASSENTAMENTO</option>
+                        <option value="ASSENTAMENTO">RUINAS</option>
                     </Form.Select>
                 </Card.Body>
                 <Button className="mt-3 mb-3" onClick={() => { setRamdomValue() }} variant="outline-success" >
