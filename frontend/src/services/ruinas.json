@@ -29,13 +29,512 @@
                 {
                     "conteudo": "Antigo lugarejo destruido.",
                     "rangeDado": [
-                        5,8
+                        5,
+                        8
                     ]
                 }
             ]
         },
-        "especificandoConstrucoes1d20": "",
-        "localizacao1d20": "",
-        "construidaParaQualProposito1d20": ""
+        "especificandoConstrucoes1d20": {
+            "titulo": "Especificando construções",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Refúgio ou abrigo",
+                    "rangeDado": [
+                        1,
+                        8
+                    ]
+                },
+                {
+                    "conteudo": "Taverna",
+                    "rangeDado": [
+                        9,
+                        10
+                    ]
+                },
+                {
+                    "conteudo": "Torre",
+                    "rangeDado": [
+                        11,
+                        13
+                    ]
+                },
+                {
+                    "conteudo": "Farol",
+                    "rangeDado": [
+                        14,
+                        16
+                    ]
+                },
+                {
+                    "conteudo": "Celeiro",
+                    "rangeDado": [
+                        17
+                    ]
+                },
+                {
+                    "conteudo": "Barracão",
+                    "rangeDado": [
+                        18,
+                        19
+                    ]
+                },
+                {
+                    "conteudo": "Antiga morada de bestas exóticas",
+                    "rangeDado": [
+                        20
+                    ]
+                }
+            ]
+        },
+        "localizacao1d20": {
+            "titulo": "Localização",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Na superficie",
+                    "rangeDado": [
+                        1,
+                        10
+                    ]
+                },
+                {
+                    "conteudo": "Subterrâneo",
+                    "rangeDado": [
+                        11,
+                        14
+                    ]
+                },
+                {
+                    "conteudo": "Completamente submerso no mar",
+                    "rangeDado": [
+                        15,
+                        16
+                    ]
+                },
+                {
+                    "conteudo": "Parcialmente soterrado",
+                    "rangeDado": [
+                        17
+                    ]
+                },
+                {
+                    "conteudo": "Parcialmente inundado",
+                    "rangeDado": [
+                        18,
+                        19
+                    ]
+                },
+                {
+                    "conteudo": "Completamente camuflada (Percepção CD 15)",
+                    "rangeDado": [
+                        20
+                    ]
+                }
+            ]
+        },
+        "construidaParaQualProposito1d20": {
+            "titulo": "Construida para qual proposito",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Habitação",
+                    "rangeDado": [
+                        1,
+                        5
+                    ]
+                },
+                {
+                    "conteudo": "Biblioteca",
+                    "rangeDado": [
+                        6
+                    ]
+                },
+                {
+                    "conteudo": "Cofre",
+                    "rangeDado": [
+                        7
+                    ]
+                },
+                {
+                    "conteudo": "Proteção mundana",
+                    "rangeDado": [
+                        8,
+                        9
+                    ]
+                },
+                {
+                    "conteudo": "Proteção magica",
+                    "rangeDado": [
+                        10
+                    ]
+                },
+                {
+                    "conteudo": "Militar",
+                    "rangeDado": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "conteudo": "Pesquisa e estudo",
+                    "rangeDado": [
+                        13
+                    ]
+                },
+                {
+                    "conteudo": "Adoração de divindades",
+                    "rangeDado": [
+                        14,
+                        15
+                    ]
+                },
+                {
+                    "conteudo": "Carcere/Aprisionar",
+                    "rangeDado": [
+                        16
+                    ]
+                },
+                {
+                    "conteudo": "Armazenamento",
+                    "rangeDado": [
+                        17
+                    ]
+                },
+                {
+                    "conteudo": "Centro de recuperação",
+                    "rangeDado": [
+                        18
+                    ]
+                },
+                {
+                    "conteudo": "Porto clandestino",
+                    "rangeDado": [
+                        19
+                    ]
+                },
+                {
+                    "conteudo": "Contemplação Astrologica",
+                    "rangeDado": [
+                        20
+                    ]
+                }
+            ]
+        },
+        "atualPropositod20": {
+            "titulo": "",
+            "rangeDado": [
+                1,
+                20
+            ],
+            "eventos": [
+                {
+                    "conteudo": "Abrigo",
+                    "rangeDado": [
+                        1,
+                        7
+                    ]
+                },
+                {
+                    "conteudo": "Passagem para uma masmorra (Dungeon)",
+                    "rangeDado": [
+                        8
+                    ]
+                },
+                {
+                    "conteudo": "Carcere/Aprisionar",
+                    "rangeDado": [
+                        9
+                    ]
+                },
+                {
+                    "conteudo": "Culto proibido",
+                    "rangeDado": [
+                        10
+                    ]
+                },
+                {
+                    "conteudo": "Atividades ilicitas",
+                    "rangeDado": [
+                        11,
+                        12
+                    ]
+                },
+                {
+                    "conteudo": "Emboscadas",
+                    "rangeDado": [
+                        13,
+                        16
+                    ]
+                },
+                {
+                    "conteudo": "Militar",
+                    "rangeDado": [
+                        17
+                    ]
+                },
+                {
+                    "conteudo": "Extração de riquezas",
+                    "rangeDado": [
+                        18,
+                        19
+                    ]
+                },
+                {
+                    "conteudo": "Proteger/guardar algo ou alguem importante",
+                    "rangeDado": [
+                        20
+                    ]
+                }
+            ]
+        },
+        "especificandoRuina": {
+            "titulo": "Especificando a ruína",
+            "primeirosHabitantes": {
+                "titulo": "Primeiros habitantes",
+                "rangeDado": [
+                    1,
+                    20
+                ],
+                "eventos": [
+                    {
+                        "conteudo": "Humanos",
+                        "rangeDado": [
+                            1,
+                            11
+                        ]
+                    },
+                    {
+                        "conteudo": "Anões",
+                        "rangeDado": [
+                            12,
+                            18
+                        ]
+                    },
+                    {
+                        "conteudo": "Gigantes",
+                        "rangeDado": [
+                            19,
+                            20
+                        ]
+                    }
+                ]
+            },
+            "idadeRuinad20": {
+                "titulo": "Idade da ruína",
+                "rangeDado": [
+                    1,
+                    20
+                ],
+                "eventos": [
+                    {
+                        "conteudo": "1d4 Décadas",
+                        "rangeDado": [
+                            1,
+                            10
+                        ]
+                    },
+                    {
+                        "conteudo": "1d10 Décadas",
+                        "rangeDado": [
+                            11,
+                            18
+                        ]
+                    },
+                    {
+                        "conteudo": "1d10 Séculos",
+                        "rangeDado": [
+                            19,
+                            20
+                        ]
+                    }
+                ]
+            },
+            "idadeRuinaHumanad20": {
+                "titulo": "Idade da ruína humana",
+                "rangeDado": [
+                    1,
+                    20
+                ],
+                "eventos": [
+                    {
+                        "conteudo": "1d20 Anos",
+                        "rangeDado": [
+                            1,
+                            17
+                        ]
+                    },
+                    {
+                        "conteudo": "1d4 Decadas",
+                        "rangeDado": [
+                            18,
+                            19
+                        ]
+                    },
+                    {
+                        "conteudo": "1d10 Decadas",
+                        "rangeDado": [
+                            20
+                        ]
+                    }
+                ]
+            },
+            "ocupacao1Quanto": {
+                "titulo": "Ocupação 1.1 (Quanto)",
+                "rangeDado": [
+                    1,
+                    20
+                ],
+                "eventos": [
+                    {
+                        "conteudo": "Semi-ocupada (Rolar encontro subterrâneo ou encontro na costa da travessia, o que for mais coerente)",
+                        "rangeDado": [
+                            1,
+                            11
+                        ]
+                    },
+                    {
+                        "conteudo": "Ocupada, role um lugarejo (No caso da Lâmia, role novamente para descobrir a raça daqueles que a veneram)",
+                        "rangeDado": [
+                            12,
+                            13
+                        ]
+                    },
+                    {
+                        "conteudo": "Abandonada",
+                        "rangeDado": [
+                            14,
+                            19
+                        ]
+                    },
+                    {
+                        "conteudo": "Apenas um unico habitante poderoso",
+                        "rangeDado": [
+                            20
+                        ]
+                    }
+                ]
+            },
+            "ocupacao2Quem": {
+                "titulo": "Ocupação 1.2 (Quem)",
+                "rangeDado": [
+                    1,
+                    20
+                ],
+                "eventos": [
+                    {
+                        "conteudo": "Humano",
+                        "rangeDado": [
+                            1,
+                            8
+                        ]
+                    },
+                    {
+                        "conteudo": "Kuo-toa",
+                        "rangeDado": [
+                            9,
+                            10
+                        ]
+                    },
+                    {
+                        "conteudo": "Povo lagarto",
+                        "rangeDado": [
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "conteudo": "Duergar",
+                        "rangeDado": [
+                            13
+                        ]
+                    },
+                    {
+                        "conteudo": "Bullywug",
+                        "rangeDado": [
+                            14
+                        ]
+                    },
+                    {
+                        "conteudo": "Kobold",
+                        "rangeDado": [
+                            15,
+                            17
+                        ]
+                    },
+                    {
+                        "conteudo": "Sahuagin",
+                        "rangeDado": [
+                            18 
+                        ]
+                    },
+                    {
+                        "conteudo": "Troglodita",
+                        "rangeDado": [
+                            19
+                        ]
+                    },
+                    {
+                        "conteudo": "Lâmia",
+                        "rangeDado": [
+                            20
+                        ]
+                    }
+                ]
+            },
+            "especificandoHumanos": {
+                "titulo": "Especificando humanos",
+                "rangeDado": [
+                    1,
+                    20
+                ],
+                "eventos": [
+                    {
+                        "conteudo": "Bandidos",
+                        "rangeDado": [
+                            1,
+                            10
+                        ]
+                    },
+                    {
+                        "conteudo": "Lacaios a mando de um nobre",
+                        "rangeDado": [
+                            11,
+                            12
+                        ]
+                    },
+                    {
+                        "conteudo": "Guerreiros tribais",
+                        "rangeDado": [
+                            13,
+                            17
+                        ]
+                    },
+                    {
+                        "conteudo": "Furiosos",
+                        "rangeDado": [
+                            18,
+                            19
+                        ]
+                    },
+                    {
+                        "conteudo": "Cultistas",
+                        "rangeDado": [
+                            20
+                        ]
+                    }
+                ]
+            }
+        }
     }
 }
