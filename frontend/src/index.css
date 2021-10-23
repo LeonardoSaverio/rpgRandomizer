@@ -13,5 +13,23 @@ h2,
 h3,
 h4 {
   font-weight: 400;
+  color: aliceblue;
 }
 
+h2 {
+  color: aliceblue;
+  font-size: 25px;
+
+}
+h4 {
+  font-size: 16px;
+}
+
+p{
+  color: #a7b1c1;
+}
+
+
+body {
+  background-color: #1d1f29;
+}

@@ -2,9 +2,10 @@
     "ruinas": {
         "titulo": "RUÍNAS",
         "tipoDeRuina1d20": {
+            "titulo": "Tipo de Ruina",
             "rangeDado": [
                 1,
-                20
+                8
             ],
             "eventos": [
                 {
@@ -232,7 +233,7 @@
             ]
         },
         "atualPropositod20": {
-            "titulo": "",
+            "titulo": "Atual propósito",
             "rangeDado": [
                 1,
                 20
@@ -300,7 +301,7 @@
         },
         "especificandoRuina": {
             "titulo": "Especificando a ruína",
-            "primeirosHabitantes": {
+            "primeirosHabitantesd20": {
                 "titulo": "Primeiros habitantes",
                 "rangeDado": [
                     1,
@@ -389,7 +390,7 @@
                     }
                 ]
             },
-            "ocupacao1Quanto": {
+            "ocupacao1Quantod20": {
                 "titulo": "Ocupação 1.1 (Quanto)",
                 "rangeDado": [
                     1,
@@ -425,7 +426,7 @@
                     }
                 ]
             },
-            "ocupacao2Quem": {
+            "ocupacao2Quemd20": {
                 "titulo": "Ocupação 1.2 (Quem)",
                 "rangeDado": [
                     1,
@@ -492,7 +493,7 @@
                     }
                 ]
             },
-            "especificandoHumanos": {
+            "especificandoHumanosd20": {
                 "titulo": "Especificando humanos",
                 "rangeDado": [
                     1,
